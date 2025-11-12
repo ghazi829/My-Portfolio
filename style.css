@@ -584,7 +584,7 @@ h3{
 
 .form-button .btn:hover {
     background: var(--accent-color);
-    box-shadow: 0 0 2em var(--accent-color);
+    box-shadow: 0 0 1em var(--accent-color);
 }
 
 .form-button i {
